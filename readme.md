@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://youtu.be/vpvtZZi5ZWk?feature=shared" target="_blank">
-      <img src="/media/ali/28E81328E812F3B2/2024/ai_news_summarizer/src/assets/projectbanner.jpg" alt="Project Banner">
+      <img src="https://github.com/zulfiqarAlibalti/ai-newssummarizer/blob/master/src/assets/projectbanner.jpg" alt="Project Banner">
     </a>
   <br />
 
@@ -35,7 +35,7 @@
 
 This project is a completely SaaS web Application that summarizes any news articles or website link using OpenAI API. Here is the demo of [AI-News Summarizer](/media/ali/28E81328E812F3B2/2024/ai_news_summarizer/src/assets/demosaas.gif).
 
-![AI-News Summarizer Demo](/media/ali/28E81328E812F3B2/2024/ai_news_summarizer/src/assets/demosaas.gif)
+![AI-News Summarizer Demo](https://github.com/zulfiqarAlibalti/ai-newssummarizer/blob/master/src/assets/demosaas.gif)
 
 
 
