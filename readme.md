@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/vpvtZZi5ZWk?feature=shared" target="_blank">
+    <a href="" target="_blank">
       <img src="https://github.com/zulfiqarAlibalti/ai-newssummarizer/blob/master/src/assets/projectbanner.jpg" alt="Project Banner">
     </a>
   <br />
